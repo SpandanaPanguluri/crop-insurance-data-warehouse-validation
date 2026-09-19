@@ -2,7 +2,7 @@
 
 Synthetic crop-insurance data warehouse and reporting validation project aligned to Senior Data Analyst work involving profiling, source-to-target mapping, metadata analysis, reconciliation, ETL validation, business rules, UAT support, and downstream reporting.
 
-> All data is synthetic. No Majesco, client, or proprietary insurance data is included.
+> All data is synthetic. No client, or proprietary insurance data is included.
 
 ## Business Problem
 
