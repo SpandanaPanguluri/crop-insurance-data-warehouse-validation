@@ -1,0 +1,9 @@
+policy_key,policy_id,state_code,crop_code,plan_code,coverage_level,status_desc,premium_amount,acreage_total
+1,CP1001,IA,CORN,YP,0.75,Active,12450,600
+2,CP1002,NE,SOY,RP,0.8,Active,15620,350
+3,CP1003,KS,WHEAT,YP,0.7,Active,9800,510
+4,CP1004,TX,COTTON,RP,0.75,Active,21100,275
+5,CP1005,MN,CORN,RP,0.85,Active,18840,600
+6,CP1006,ND,SOY,YP,0.75,Active,11400,440
+7,CP1007,SD,WHEAT,RP,0.8,Active,13250,380
+8,CP1008,IA,CORN,YP,0.75,Active,14950,500

@@ -1,0 +1,8 @@
+crop_code,crop_name,plan_code,plan_name,active_flag
+CORN,Corn,YP,Yield Protection,Y
+CORN,Corn,RP,Revenue Protection,Y
+SOY,Soybeans,YP,Yield Protection,Y
+SOY,Soybeans,RP,Revenue Protection,Y
+WHEAT,Wheat,YP,Yield Protection,Y
+WHEAT,Wheat,RP,Revenue Protection,Y
+COTTON,Cotton,RP,Revenue Protection,Y

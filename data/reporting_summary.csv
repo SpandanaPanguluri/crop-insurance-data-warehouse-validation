@@ -1,0 +1,8 @@
+state_code,crop_code,active_policy_count,reported_premium,reported_acres
+IA,CORN,2,27400,1100
+NE,SOY,1,15620,350
+KS,WHEAT,1,9800,510
+TX,COTTON,1,21100,275
+MN,CORN,1,18840,600
+ND,SOY,1,11400,440
+SD,WHEAT,1,13250,380
